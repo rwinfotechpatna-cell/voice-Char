@@ -1,0 +1,7 @@
+{
+  "name": "Easy Voice to Speech ",
+  "description": "A state-of-the-art text-to-speech application powered by Gemini 2.5 TTS, featuring high-fidelity neural voices and conversation modeling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
